@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @desintaa
 - 👀 I’m interested in IT Development and IT product management
-- 🌱 I’m currently learning Android and Website Development
+- 🌱 I’m currently learning Android and Website Development using Kotlin for Android, Java Script for Front End Web, and Java for Back End
 - 💞️ I’m looking to collaborate on Android and Website Development
 - 📫 You can reach me through
       Gmail (desintadewir@gmail.com),
